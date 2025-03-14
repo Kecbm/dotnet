@@ -4,12 +4,18 @@ Roadmap based in the [DotNet-Developer-Roadmap](https://github.com/milanm/DotNet
 
 ## [ASP.NET Core](https://github.com/milanm/DotNet-Developer-Roadmap?tab=readme-ov-file#3-aspnet-core)
 
-- 3. ASP.NET Core
-  - APIs -  REST
-  - Wep APIs - Controllers
-  - ![Imagem do WhatsApp de 2025-03-13 à(s) 18 18 04_ad1df019](https://github.com/user-attachments/assets/6273334b-585f-432f-ae31-c08243a5ad6b)
-  - ![Imagem do WhatsApp de 2025-03-13 à(s) 18 18 40_84e0f6e6](https://github.com/user-attachments/assets/c49a9218-c3c6-4748-a67a-2926d1e93865)
-
+- [3. ASP.NET Core](https://github.com/milanm/DotNet-Developer-Roadmap?tab=readme-ov-file#3-aspnet-core)
+  - How Internet Works
+  - HTTP/HTTPS + [9. Communication - HTTP Client](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=net-8.0)
+  - Middlewares
+  - Authentication & Autorisation + [Additional considerations - Authentication and Authorization](https://learn.microsoft.com/en-us/aspnet/web-api/overview/security/authentication-and-authorization-in-aspnet-web-api)
+  - Dependency Injection
+  - DNS
+- APIs - REST
+  - https://dotnet.microsoft.com/pt-br/apps/aspnet/apis
+  - https://learn.microsoft.com/pt-br/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api
+- [Web APIs - Controllers](https://learn.microsoft.com/pt-br/training/modules/build-web-api-aspnet-core/)
+- [Filters & Attuributes](https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-9.0)
 
 | Theme          | Status           | Article        |
 |----------------|----------------|----------------|
