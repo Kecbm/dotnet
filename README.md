@@ -17,6 +17,10 @@ Roadmap based in the [DotNet-Developer-Roadmap](https://github.com/milanm/DotNet
 - [Web APIs - Controllers](https://learn.microsoft.com/pt-br/training/modules/build-web-api-aspnet-core/)
 - [Filters & Attuributes](https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-9.0)
 
+## Others
+
+- Life Cycle do .Net [singleton, scoped, transient]
+
 | Theme          | Status           | Article        |
 |----------------|----------------|----------------|
 |  | In progress         | -              |
