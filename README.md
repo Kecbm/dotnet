@@ -2,6 +2,24 @@
 
 Roadmap based in the [DotNet-Developer-Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap) repository.
 
+## Firsts steps
+
+- ASP.NET Core Web API .NET - https://www.youtube.com/watch?v=qBTe6uHJS_Y&list=PL82C6-O4XrHfrGOCPmKmwTO7M0avXyQKc
+  - HATEOAS - https://www.youtube.com/watch?v=59Ce4O3J7Do
+  - Basic versioning - https://www.youtube.com/watch?v=8Asq7ymF1R8
+  - Advanced versioning - https://www.youtube.com/watch?v=bmgeVVh9oaU
+  - Integrating versioning in Swagger - https://www.youtube.com/watch?v=XLOjmwXT8oU
+  - Integrating auth in Swagger - https://www.youtube.com/watch?v=EHLlH_9oS5Q
+  - Extending Swagger documentation - https://www.youtube.com/watch?v=BGASedyh16I
+  - Adding health checks - https://www.youtube.com/watch?v=p2faw9DCSsY
+  - Implementing Response caching - https://www.youtube.com/watch?v=DdlRH3BgIvc
+  - Implementing Output caching - https://www.youtube.com/watch?v=BMXgJxSaDSo
+  - Implementing API-key based auth - https://www.youtube.com/watch?v=CV6VdBR86co
+  - Implementing multiple auth - https://www.youtube.com/watch?v=EcozgfDOq4g
+- Let's Build an SDK - https://www.youtube.com/watch?v=P6IEk51lK3I
+- Minimal APIs - https://www.youtube.com/watch?v=lFo3Yy8Ro7w
+
+
 ## [ASP.NET Core](https://github.com/milanm/DotNet-Developer-Roadmap?tab=readme-ov-file#3-aspnet-core)
 
 - [3. ASP.NET Core](https://github.com/milanm/DotNet-Developer-Roadmap?tab=readme-ov-file#3-aspnet-core)
