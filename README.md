@@ -16,6 +16,12 @@ Roadmap based in the [DotNet-Developer-Roadmap](https://github.com/milanm/DotNet
   - https://learn.microsoft.com/pt-br/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api
 - [Web APIs - Controllers](https://learn.microsoft.com/pt-br/training/modules/build-web-api-aspnet-core/)
 - [Filters & Attuributes](https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/filters?view=aspnetcore-9.0)
+- https://learn.microsoft.com/en-us/training/browse/?expanded=dotnet&products=aspnet-core
+- https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0
+- https://learn.microsoft.com/en-us/training/browse/?expanded=dotnet&products=ef-core
+- https://learn.microsoft.com/en-us/ef/core/
+- https://learn.microsoft.com/en-us/dotnet/csharp/linq/
+- https://learn.microsoft.com/en-us/sql/sql-server/what-s-new-in-sql-server-2022?view=sql-server-ver16
 
 ## Others
 
