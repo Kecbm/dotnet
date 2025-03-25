@@ -45,6 +45,18 @@ Roadmap based in the [DotNet-Developer-Roadmap](https://github.com/milanm/DotNet
 
 - Life Cycle do .Net [singleton, scoped, transient]
 
+### Librarys
+
+- Serilog - Best for Structured Logging.
+- EFCore - The recommended way to interact with your Relational Databases.
+- MediatR - To implement the mediator pattern, and separate your application's read/write concerns.
+- FluentValidation - Validate your requests and models.
+- Hangfire - Best for Background Jobs.
+- Polly - Helps build resilient HTTP applications.
+- Dapper - Object Mapper using RAW SQL.
+- Refit - Best REST Library.
+- XUnit - Best way to write Unit Tests!
+
 | Theme          | Status           | Article        |
 |----------------|----------------|----------------|
 |  | In progress         | -              |
