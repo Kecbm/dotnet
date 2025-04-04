@@ -47,6 +47,7 @@ Roadmap based in the [DotNet-Developer-Roadmap](https://github.com/milanm/DotNet
 - .NET Microservices - https://www.youtube.com/watch?v=DgVjEo3OGBI&list=PLpXfHEl2fzl7a7p4ntTmdjmNSD1iEYXrm
 - https://media.licdn.com/dms/image/v2/D4E22AQGcl5SemoKXvw/feedshare-shrink_800/B4EZWsAm4LHcAg-/0/1742347596389?e=1745452800&v=beta&t=ftQYD24_BKNBmEMBwZBiWoE8BNiZ_7dQaQA9lyMP6WE
 - .NET Zero To Hero topics: https://github.com/codewithmukesh/dotnet-webapi-zero-to-hero-course
+- Multitenant com .NET: https://www.youtube.com/watch?v=9GA7_JqftDg
 
 ### Librarys
 
